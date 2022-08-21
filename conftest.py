@@ -1,7 +1,6 @@
 from pathlib import Path
 import pytest
 from appium import webdriver
-from appium.webdriver.appium_service import AppiumService
 
 
 @pytest.fixture(scope="function")
