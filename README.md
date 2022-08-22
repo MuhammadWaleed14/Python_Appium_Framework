@@ -1,6 +1,6 @@
 # Python Appium Framework (Mobile Automation)
 ## Overview
-This solution has been designed to test native android application using Appium with Python. In the interest of time and having hands-on expertise, I have selected Python as the Programming languages.  In this challenge, my focus was on designing the scalable solution rather than automating more scenarios so that more test cases can be added in future with minimal amount of development effort. The test case has been written on the login functionality of the provided APK
+This solution has been designed to test native android application using Appium with Python. In the interest of time and having hands-on expertise, I have selected Python as the Programming languages.  In this challenge, my focus was on designing the scalable solution rather than automating more scenarios so that more test cases can be added in future with minimal amount of development effort. The test case has been automated to verify the login functionality of the provided APK
 ## Installation
 1.	Download and Install the Java JDK and set JAVA_HOME to your JDK folder
 2.	Download and Install the Android Studio mark the AVD Manager is further installed as we are moving to drive our tests on an emulator. Set ANDROID_HOME to be your Android SDK path and put in the tools and platform-tools folders to your PATH variable 
