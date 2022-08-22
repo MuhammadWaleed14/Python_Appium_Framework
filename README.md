@@ -21,7 +21,7 @@ This solution has been designed to test native android application using Appium 
 7.	Appium Server and Appium Inspector
 ## Set up Test Environment
 1.	Clone the Repository https://github.com/MuhammadWaleed14/Python_Appium_Framework
-2.	Checkout branch develop if isn’t already checked out.
+2.	Checkout branch if isn’t already checked out.
 ## Execute Tests 
 1.	Start Android Emulator
 2.	Start Appium Server
