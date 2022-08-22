@@ -2,8 +2,8 @@
 ## Overview
 This solution has been designed to test native android application using Appium with Python. In the interest of time and having hands-on expertise, I have selected Python as the Programming languages.  In this challenge, my focus was on designing the scalable solution rather than automating more scenarios so that more test cases can be added in future with minimal amount of development effort. The test case has been automated to verify the login functionality of the provided APK
 ## Installation
-1.	Download and Install the Java JDK and set JAVA_HOME to your JDK folder
-2.	Download and Install the Android Studio, Mark the AVD Manager to further installed to run tests on an emulator. Set ANDROID_HOME to be your Android SDK path and put in the tools and platform-tools folders to your PATH variable 
+1.	Download and Install the Java JDK and set JAVA_HOME env variable to your JDK folder
+2.	Download and Install the Android Studio, Mark the AVD Manager to further installed to run tests on an emulator. Set ANDROID_HOME env variable to your Android SDK folder
 3.	Download and Install Appium Server
 4.	Download and Install Appium Inspector
 5.	Download and Install PyCharm
@@ -13,11 +13,11 @@ This solution has been designed to test native android application using Appium 
     * **pip install Appium-Python-Client**
 ## Frameworks/Tools/Patterns used
 1.  Language: Python
-2. 	Driver: Appium WebDriver - enables user to write tests for multiple platforms (Android/IOS) using the same WebDriver API
+2. 	Driver: Appium WebDriver - Enables user to write tests for multiple platforms (Android/IOS) using the same WebDriver API
 3.	Test runner: Pytest
 4.	IDE: PyCharm
 5.	Design Pattern: Page Object Model – To reducing duplication and minimization of the efforts involved in code
-6.	Android Studio: To Launch an emulator
+6.	Android Studio: To Launch an Emulator
 7.	Appium Server
 8.	Appium Inspector: To identify objects
 ## Set up Test Environment
