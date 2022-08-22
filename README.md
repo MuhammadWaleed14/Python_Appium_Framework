@@ -24,16 +24,16 @@ This solution has been designed to test native android applications using Appium
 ## Set up Test Environment
 1.	Clone the Repository https://github.com/MuhammadWaleed14/Python_Appium_Framework
 2.	Checkout branch develop if isn’t already checked out.
-Execute Tests 
+## Execute Tests 
 1.	Start Android Emulator
 2.	Start Appium Server
 3.	Set Python Interpreter in PyCharm
 4.	To run tests in PyCharm:
-i.	Click on Add Configuration
-ii.	Click on ‘+’ icon to create new configuration
-iii.	Select Python tests > Pytest
-iv.	Set Working Directory path till Tests Folder
-v.	Set Target path till test case file
-vi.	Click on the Apply button
+     * Click on Add Configuration
+     * Click on ‘+’ icon to create new configuration
+     * Select Python tests > Pytest
+     * Set Working Directory path till Tests Folder
+     * Set Target path till test case file
+     * Click on the Apply button
 5.	Click on Run button
 
