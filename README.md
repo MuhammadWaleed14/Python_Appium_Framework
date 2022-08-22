@@ -12,11 +12,11 @@ This solution has been designed to test native android application using Appium 
     * **pip install pytest**
     * **pip install Appium-Python-Client**
 ## Frameworks/Tools/Patterns used
-1.  Language: Python
-2. 	Driver: Appium WebDriver - Enables user to write tests for multiple platforms (Android/IOS) using the same WebDriver API
-3.	Test runner: Pytest
+1. Language: Python
+2. Driver: Appium WebDriver - Enables user to write tests for multiple platforms (Android/IOS) using the same WebDriver API
+3.	Test runner: Pytest - It is a testing framework that helps you to write simple and scalable test cases for databases, APIs, or UI. It also allows you to run tests in Parallel
 4.	IDE: PyCharm
-5.	Design Pattern: Page Object Model – To reducing duplication and minimization of the efforts involved in code
+5.	Design Pattern: Page Object Model – To reducing duplication and minimization of the efforts involved in code maintenance, increase reusability, makes code more modular
 6.	Android Studio: To Launch an Emulator
 7.	Appium Server
 8.	Appium Inspector: To identify objects
@@ -31,8 +31,8 @@ This solution has been designed to test native android application using Appium 
      * Click on Add Configuration
      * Click on ‘+’ icon to create new configuration
      * Select Python tests > Pytest
-     * Set Working Directory path till Tests Folder
-     * Set Target path till test case file
+     * Set Working Directory path to Tests Folder
+     * Set Target path to test case file
      * Click on the Apply button
 5.	Click on Run button
 
