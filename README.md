@@ -7,7 +7,7 @@ This solution has been designed to test native android application using Appium 
 3.	Download and Install Appium Server
 4.	Download and Install Appium Inspector
 5.	Download and Install PyCharm
-6.	Download and Install Python. While installing python you make sure that python is added to System’s env variables (Setup will give you option to choose).
+6.	Download and Install Python. While installing python you make sure that python is added to System’s env variables (Setup will give you option to choose)
 7.	Once done please execute the following commands one by one to install the required packages:
     * **pip install pytest**
     * **pip install Appium-Python-Client**
