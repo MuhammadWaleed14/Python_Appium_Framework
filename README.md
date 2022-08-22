@@ -18,8 +18,7 @@ This solution has been designed to test native android application using Appium 
 4.	IDE: PyCharm
 5.	Design Pattern: Page Object Model – To reducing duplication and minimization of the efforts involved in code maintenance, increase reusability, makes code more modular
 6.	Android Studio: To Launch an Emulator
-7.	Appium Server
-8.	Appium Inspector: To identify objects
+7.	Appium Server and Appium Inspector
 ## Set up Test Environment
 1.	Clone the Repository https://github.com/MuhammadWaleed14/Python_Appium_Framework
 2.	Checkout branch develop if isn’t already checked out.
