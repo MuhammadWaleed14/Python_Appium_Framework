@@ -32,6 +32,6 @@ This solution has been designed to test native android application using Appium 
      * Select **Python tests** > **Pytest**
      * Set **Working Directory** path to Tests Folder
      * Set **Target** path to test case file
-     * Click on the Apply button
+     * Click on the **Apply** button
 5.	Click on **Run** button
 
