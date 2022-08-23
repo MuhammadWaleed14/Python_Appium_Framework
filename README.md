@@ -28,7 +28,7 @@ This solution has been designed to test native android application using Appium 
 3.	Set **Python Interpreter** in PyCharm
 4.	To run tests in PyCharm:
      * Click on **Add Configuration** option
-     * Click on **"+"** icon to create new configuration
+     * Click on **+** icon to create new configuration
      * Select **Python tests** > **Pytest**
      * Set **Working Directory** path to Tests Folder
      * Set **Target** path to test case file
